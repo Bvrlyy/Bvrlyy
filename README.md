@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Béverly</h1>
+<h1 align="center">Hi 👋, I'm Bev</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
+
+- 📫 How to reach me **bvrlycrq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
